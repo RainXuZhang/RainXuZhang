@@ -1,7 +1,1 @@
-// This is my profile. \\
-- 👋 Hi, I’m Rain.
-- 👀 I’m interested in C, Go, and Linux.
-- 🌱 I’m currently learning how to update and revise my websites.
-- 📫 How to reach me: My email is rainxuzhang@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I have a website, https://www.rainxuzhang.com .
+Hi, my name's Rain. I like coding in C, and Go. I use Linux for most of my coding needs. You can send e-mail to rainxuzhang@gmail.com. Hope you find my repositories to be of use for you!
