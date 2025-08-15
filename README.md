@@ -4,4 +4,4 @@ Help me get a laptop: https://gofund.me/da72ec84
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rainxuzhang&show_icons=true&theme=transparent)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RainXuZhang)](https://github.com/anuraghazra/github-readme-stats&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=rainxuzhang&show_icons=true&theme=transparent)
